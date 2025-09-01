@@ -15,15 +15,14 @@
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
-<hr style="height:0.5px; border:none; background-color:#ccc;" />
-
+---
 
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tarun-panduri" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
 </a>
-<a href="https://www.instagram.com/tarun._.panduri" target="blank">
+<a href="https://www.instagram.com/tarun._.panduri?igsh=MTBlemg3Znc0azd2cw%3D%3D&utm_source=qr" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/>
 </a>
 </p>
