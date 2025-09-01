@@ -15,7 +15,7 @@
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
----
+--
 
 ### 🌐 Connect with me:
 <p align="left">
