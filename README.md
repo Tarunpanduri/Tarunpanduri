@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Panduri</h1>
 <h3 align="center">Curious developer, always exploring 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Tarunpanduri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
