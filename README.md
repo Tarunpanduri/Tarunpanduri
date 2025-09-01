@@ -15,7 +15,6 @@
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
---
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -27,7 +26,6 @@
 </a>
 </p>
 
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -41,7 +39,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
 
 ### 📊 GitHub Stats:
 <p>
