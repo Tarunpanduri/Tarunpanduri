@@ -15,6 +15,8 @@
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
+---
+
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/>
 </a>
 </p>
+
+---
 
 
 ### 🛠️ Languages and Tools:
@@ -38,6 +42,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
+---
 
 
 ### 📊 GitHub Stats:
