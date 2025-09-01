@@ -30,5 +30,4 @@
 </p>
 
 <p><img height="195" style="margin-bottom:10px; " align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarunpanduri&show_icons=true&locale=en&layout=compact" /></p>
-<p>&nbsp;<img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=Tarunpanduri&show_icons=true&locale=en" /></p>
 <p><img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunpanduri&" /></p>
