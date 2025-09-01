@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://tarunpanduri.github.io/Portfolio/](https://tarunpanduri.github.io/Portfolio/)
 - 💬 Ask me about *Angular & Frontend Dev*
 - 📫 How to reach me *Tarunpanduri88@gmail.com*
-- ⚡ Fun fact *I learned more from debugging than from tutorials.*
+- ⚡ Fun fact: *I learned more from debugging than from tutorials.*
 
 </p>
 <p>
