@@ -1,33 +1,50 @@
-
 <h1 align="center">Hi 👋, I'm Tarun Panduri</h1>
-<h3 align="center">Curious developer, always exploring</h3>
+<h3 align="center">Curious developer, always exploring 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Tarunpanduri&label=Profile%20views&color=0e75b6&style=flat" alt="Tarunpanduri" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tarunpanduri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on *Something Intresting*
-- 🌱 I’m currently learning *Full Stack Web Devlopment*
-- 👯 I’m looking to collaborate on *Dev Projects*
-- 🤝 I’m looking for help with *Competitive Programming*
-- 👨‍💻 All of my projects are available at [https://tarunpanduri.github.io/Portfolio/](https://tarunpanduri.github.io/Portfolio/)
-- 💬 Ask me about *Angular & Frontend Dev*
-- 📫 How to reach me *Tarunpanduri88@gmail.com*
-- ⚡ Fun fact: *I learned more from debugging than from tutorials.*
+- 🔭 I’m currently working on **Something Interesting**
+- 🌱 I’m learning **Full Stack Web Development**
+- 👯 I’m looking to collaborate on **Dev Projects**
+- 🤝 I’m open to help with **Competitive Programming**
+- 👨‍💻 Check my work here: [Portfolio](https://tarunpanduri.github.io/Portfolio/)
+- 💬 Ask me about **Angular & Frontend Development**
+- 📫 Reach me at **Tarunpanduri88@gmail.com**
+- ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/tarun-panduri" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+</a>
+<a href="https://www.instagram.com/tarun._.panduri" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/>
+</a>
 </p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
 <p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/tarun-panduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="object-fit: contain; margin-right:10px" /></a>
-<a href="https://www.instagram.com/tarun._.panduri?igsh=MTBlemg3Znc0azd2cw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="object-fit: contain;" /></a>
+  <img height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarunpanduri&show_icons=true&locale=en&layout=compact" />
+  <img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunpanduri" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <span style="padding:4px 8px; margin:2px; background-color:#E0F7FA; border-radius:6px; display:inline-block;">HTML</span> <span style="padding:4px 8px; margin:2px; background-color:red; border-radius:6px; display:inline-block;">CSS</span> <span style="padding:4px 8px; margin:2px; background-color:#F8BBD0; border-radius:6px; display:inline-block;">TAILWIND CSS</span> <span style="padding:4px 8px; margin:2px; background-color:#C8E6C9; border-radius:6px; display:inline-block;">JAVA SCRIPT</span> <span style="padding:4px 8px; margin:2px; background-color:#D1C4E9; border-radius:6px; display:inline-block;">ANGULAR</span> <span style="padding:4px 8px; margin:2px; background-color:#FFE0B2; border-radius:6px; display:inline-block;">NODE.JS</span> <span style="padding:4px 8px; margin:2px; background-color:#B3E5FC; border-radius:6px; display:inline-block;">TYPE SCRIPT</span> <span style="padding:4px 8px; margin:2px; background-color:#DCEDC8; border-radius:6px; display:inline-block;">REACT NATIVE</span>
-</p>
-
-<p><img height="195" style="margin-bottom:10px; " align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarunpanduri&show_icons=true&locale=en&layout=compact" /></p>
-<p><img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunpanduri&" /></p>
