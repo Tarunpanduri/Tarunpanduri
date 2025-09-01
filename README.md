@@ -15,7 +15,7 @@
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
+<hr style="height:0.5px; border:none; background-color:#ccc;" />
 
 
 ### 🌐 Connect with me:
