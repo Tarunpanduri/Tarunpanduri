@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Tarun p</h1>
 <h3 align="center">khjgfgfds</h3>
 <img align="right" alt="Coding" width="340" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
@@ -19,7 +18,7 @@
 
 - 💬 Ask me about **lmlhkgjgd**
 
-- 📫 Reach me at **UIYITURYETRW**
+- 📫 Reach me at ****
 
 - ⚡ Fun fact: **;LJHYFTDW**
 
@@ -27,7 +26,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="LUYTRS" target="blank">
+<a href="https://www.linkedin.com/in/tarun-panduri" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
 </a>
 <a href="KJHGFDSD" target="blank">
