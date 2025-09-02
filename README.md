@@ -56,5 +56,6 @@
 ### 📊 GitHub Stats:
 <p>
   <img height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarunpanduri&show_icons=true&locale=en&layout=compact" />
+  <br><br>
   <img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunpanduri" />
 </p>
