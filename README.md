@@ -7,13 +7,21 @@
 </p>
 
 - 🔭 I’m currently working on **Something Interesting**
+
 - 🌱 I’m learning **Full Stack Web Development**
+
 - 👯 I’m looking to collaborate on **Dev Projects**
+
 - 🤝 I’m open to help with **Competitive Programming**
+
 - 👨‍💻 Check my work here: [Portfolio](https://tarunpanduri.github.io/Portfolio/)
+
 - 💬 Ask me about **Angular & Frontend Development**
+
 - 📫 Reach me at **Tarunpanduri88@gmail.com**
+
 - ⚡ Fun fact: **I learned more from debugging than from tutorials.**
+
 
 ---
 
