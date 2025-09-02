@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarun Panduri</h1>
-<h3 align="center">Curious developer, always exploring 🚀</h3>
+<h2 align="center">Hi 👋, I'm Tarun Panduri</h2>
+<h4 align="center">Curious developer, always exploring 🚀</h4>
 <img align="right" alt="Coding" width="330" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
 <p align="left">
